@@ -17,4 +17,4 @@ A NLP-based sentiment analyzer for customer reviews that identifies CX issues an
 - ✅ **19% higher customer** retention through proactive CX interventions
 - ✅ **₹7,875 revenue at risk identified** per 100 negative reviews
 - ✅ Top CX issues prioritized (delivery time, food quality) for immediate action
-- ✅ Production-ready API with business context ('analyze_swiggy_review()')
+- ✅ Production-ready API with business context (`analyze_swiggy_review()`)
